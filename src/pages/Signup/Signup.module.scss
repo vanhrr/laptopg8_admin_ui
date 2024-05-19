@@ -1,0 +1,14 @@
+.signup {
+    display: flex;
+    justify-content: center;
+    width: 100%;
+}
+.name {
+    margin-right: 10px;
+}
+
+.group_btn {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    margin-top: 35px;
+}
